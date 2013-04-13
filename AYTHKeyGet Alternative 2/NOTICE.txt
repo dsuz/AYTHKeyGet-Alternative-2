@@ -1,0 +1,7 @@
+﻿本ソフトウェアは、以下のライブラリを使用しています。
+
+ライブラリ：
+csexwb2 (The most complete .NET Webbrowser control wrapper)
+
+csexwb2 配布元:
+https://code.google.com/p/csexwb2/
