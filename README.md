@@ -1,6 +1,6 @@
 AYTHKeyGet-Alternative-2
 ========================
-AYTHKeyGet AlternativeのReadMeに記載していた「既知の問題」1.に対応するためのものです。
+AYTHKeyGet Alternative(https://github.com/dsuz/AYTHKeyGet-Alternative)のReadMeに記載していた「既知の問題」1.に対応するためのものです。
 PACファイルを使っていない、あるいはAYTHKeyGet Alternativeで特に問題ない場合はこちらを使う必要はありません。
 
 詳しくはプロジェクトに含まれるAYTHKeyGet Alternative 2 Readme.txtを参照してください。
