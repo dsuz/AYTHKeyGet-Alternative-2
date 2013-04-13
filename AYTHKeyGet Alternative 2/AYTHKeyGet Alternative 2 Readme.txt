@@ -18,12 +18,12 @@ csExWB.dll
 Interop.ComUtilitiesLib.dll
 ComUtilities.dll
 
-3. コマンドプロンプトを起動し、Radikaをインストールされているパスに移動して、次のコマンドを入力します。
+3. コマンドプロンプトを起動し、Radikaがインストールされているパスに移動して、次のコマンドを入力します。
 regsvr32 ComUtilities.dll
 
 【アンインストール】
 
-1. コマンドプロンプトを起動し、Radikaをインストールされているパスに移動して、次のコマンドを入力します。
+1. コマンドプロンプトを起動し、Radikaがインストールされているパスに移動して、次のコマンドを入力します。
 regsvr32 /u ComUtilities.dll
 
 2. 以下のファイルをRadikaがインストールされているフォルダから削除します。
